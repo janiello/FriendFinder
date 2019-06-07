@@ -1,0 +1,20 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "Like game matchmaking but with humans who could be your friends!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janiello/FriendFinder.git"
+  },
+  "author": "janiello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janiello/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/janiello/FriendFinder#readme"
+}
