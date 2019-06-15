@@ -1,3 +1,4 @@
+// "Friends" variable that is an array of objects...
 var friends = [
     {
         name: "Han Solo",
@@ -24,3 +25,6 @@ var friends = [
         scores: [5, 1, 4, 2, 1]
     }
 ];
+
+// Export the friends variable data to be required by the apiRoutes in order to display the data
+module.exports = friends;
